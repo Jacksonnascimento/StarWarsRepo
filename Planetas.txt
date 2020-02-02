@@ -2,4 +2,3 @@ Alderran
 Coruscant 
 Endor
 Tatooine
-Terra
