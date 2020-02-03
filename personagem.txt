@@ -3,7 +3,6 @@ Obi Wan
 Ahsoka Tano
 Leia Organa
 Master Yoda
-<<<<<<< HEAD
 Han Solo
 Chewbacca
 General Grievous
