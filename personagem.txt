@@ -7,3 +7,7 @@ Han Solo
 Chewbacca
 General Grievous
 Darth Sidious
+
+
+Rey 
+Finn
